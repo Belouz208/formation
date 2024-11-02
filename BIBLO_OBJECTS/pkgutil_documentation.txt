@@ -1,0 +1,20 @@
+Documentation des sous-modules, classes et fonctions de 'pkgutil'
+
+  Fonction: namedtuple
+  Fonction: simplegeneric
+  Classe: ModuleType
+  Classe: ModuleInfo
+  Fonction: read_code
+  Fonction: walk_packages
+  Fonction: iter_modules
+  Fonction: iter_importer_modules
+  Fonction: _iter_file_finder_modules
+  Classe: zipimporter
+  Fonction: iter_zipimport_modules
+  Fonction: get_importer
+  Fonction: iter_importers
+  Fonction: get_loader
+  Fonction: find_loader
+  Fonction: extend_path
+  Fonction: get_data
+  Fonction: resolve_name
