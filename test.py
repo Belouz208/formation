@@ -35,3 +35,5 @@ opertaion(choix_client)
 
 
 
+
+def conversion (unit1,unit2,operation)
