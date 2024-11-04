@@ -91,5 +91,3 @@ while not termin_prog :
 
 
 
-
-
