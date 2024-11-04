@@ -1,0 +1,30 @@
+Documentation des sous-modules, classes et fonctions de 'time'
+
+  Classe: __loader__
+  Fonction: time
+  Fonction: time_ns
+  Fonction: clock_gettime
+  Fonction: clock_gettime_ns
+  Fonction: clock_settime
+  Fonction: clock_settime_ns
+  Fonction: clock_getres
+  Fonction: pthread_getcpuclockid
+  Fonction: sleep
+  Fonction: gmtime
+  Fonction: localtime
+  Fonction: asctime
+  Fonction: ctime
+  Fonction: mktime
+  Fonction: strftime
+  Fonction: strptime
+  Fonction: tzset
+  Fonction: monotonic
+  Fonction: monotonic_ns
+  Fonction: process_time
+  Fonction: process_time_ns
+  Fonction: thread_time
+  Fonction: thread_time_ns
+  Fonction: perf_counter
+  Fonction: perf_counter_ns
+  Fonction: get_clock_info
+  Classe: struct_time

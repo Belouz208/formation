@@ -2,7 +2,6 @@
 
 import  random
 
-from scipy.stats import false_discovery_control
 
 NOMBRE_MIN = 1
 NOMBRE_MAX = 10

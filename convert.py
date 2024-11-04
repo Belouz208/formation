@@ -37,9 +37,9 @@ import os
 #
 
 def affiche_menu():
-    print ("1 - Cm ----> Pouce")
-    print ("2 - Pouce-------Cm")
-    print ("3 - Pour  Quitter" )
+    print ("1 - Cm ----> Pouce ")
+    print ("2 - Pouce-------Cm ")
+    print ("3 - Pour  Quitter " )
     choix_operation = input ("Faite Votre Choix : ")
     return choix_operation
 
@@ -65,7 +65,7 @@ def pouce_to_cm ():
             print(resultat_conv)
             validite_val =True
         except:
-            print ("entree une valure EN Pouce :")
+            print ("Entree une valure EN Pouce :")
 
 def opertaion (choix):
 
@@ -77,7 +77,8 @@ def opertaion (choix):
                 print ("program terminée ..!!")
                 return True
             else:
-                print("Entree une valeur Valid")
+                print()
+                print("Entree Un Choix  Valid 1 Ou 2 Ou 3 " )
                 return  False
 
 #main
